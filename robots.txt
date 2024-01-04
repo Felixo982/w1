@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hoki-bet.jmarchini.org/sitemap.xml
